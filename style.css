@@ -44,7 +44,8 @@ body {
 }
 
 .progress-bg h3.goal,
-h3.raised {
+h3.raised,
+h1 {
   font-family: Arial, sans-serif;
   font-size: 1.2em;
   font-weight: 600;
